@@ -1,0 +1,5 @@
+compile:
+	c++ prog1.cc
+
+clean:
+	rm *.o main 
