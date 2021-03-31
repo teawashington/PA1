@@ -1,7 +1,7 @@
 #include <iostream> 
 #include <string> 
 using namespace std;
-
+// comment
 void testInput(string input);
 void errorMessage(string protocol, string fault);
 void printOutput(string protocol, string domain, string port, string filePath, string parameters);
